@@ -4,7 +4,11 @@
 **ShantanuDash/ShantanuDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![CV/Resume](https://github.com/ShantanuDash/ShantanuDash/blob/cv/main.png "Check out this CV of mine")
 
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 <!--
 Here are some ideas to get you started:
 
