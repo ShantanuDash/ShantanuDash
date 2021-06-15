@@ -8,9 +8,11 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+      with:
+        ref: cv
 
     - name: Pushes test file
-      uses: dmnemec/copy_file_to_another_repo_action@cv
+      uses: dmnemec/copy_file_to_another_repo_action@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
