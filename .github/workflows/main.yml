@@ -1,0 +1,22 @@
+name: Push File
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'main.png'
+        destination_repo: 'ShantanuDash/shantanudash.github.io'
+        destination_folder: '_pages'
+        user_email: 'shantanudash7@gmail.com'
+        user_name: 'ShantanuDash'
+        commit_message: 'Updated cv pic'
