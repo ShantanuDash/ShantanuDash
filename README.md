@@ -1,6 +1,6 @@
 ### Hi there it's me Shantanu! See below to know more about me.
 #### You can view my latest repo [here](https://GitHub.com/ShantanuDash/siesta-action)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShantanuDash&repo=siesta-action&show_owner=True)](https://GitHub.com/ShantanuDash/siesta-action)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShantanuDash&repo=siesta-action&show_owner=True&theme=dark)](https://GitHub.com/ShantanuDash/siesta-action)
 
 ***
 
