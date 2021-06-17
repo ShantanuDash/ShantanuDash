@@ -5,7 +5,7 @@
 ![CV/Resume](https://github.com/ShantanuDash/ShantanuDash/blob/cv/main.png "Check out this CV of mine")
 
 ### :zap: Recent Activity
-[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanudash)](https://github.com/shantanudash/shantanudash)
+[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanudash&show_icons=true&count_private=true)](https://github.com/shantanudash/shantanudash)
 
 <!--START_SECTION:activity-->
 
