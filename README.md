@@ -4,7 +4,7 @@
 
 ***
 
-[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanudash&show_icons=true&count_private=true)](https://github.com/shantanudash/shantanudash)
+[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanudash&show_icons=true&count_private=true&theme=dark)](https://github.com/shantanudash/shantanudash)
 
 ***
 <!--
